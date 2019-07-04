@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{41:function(e,n,t){"use strict";t.r(n);var o={name:"index",created(){console.log("home")}},s=t(4),c=Object(s.a)(o,function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("欢迎来到王者荣耀")])},[],!1,null,"1d56b5d8",null);n.default=c.exports}}]);
