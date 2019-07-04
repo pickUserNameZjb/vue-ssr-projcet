@@ -65,7 +65,7 @@ if (isDev) { // 开发模式配置
     ],
     output: {
       // libraryTarget: 'commonjs2',
-      publicPath: 'http://127.0.0.1:8000/public/',
+      publicPath: appConfig.target,
       path: path.join(__dirname, '../server-build')
     }
   }
